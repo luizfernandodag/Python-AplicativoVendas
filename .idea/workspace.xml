@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="593a440b-7690-4a11-8b9e-71c3801a88ab" name="Changes" comment="" />
+    <list default="true" id="593a440b-7690-4a11-8b9e-71c3801a88ab" name="Changes" comment="Ini Project Aplicativo Vendas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +14,16 @@
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2iQqfhX55yMjJ0st86UXCN1PoGL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -66,7 +69,49 @@
       <option name="presentableId" value="Default" />
       <updated>1719433253926</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ini Project Aplicativo Vendas">
+      <option name="closed" value="true" />
+      <created>1719433521209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719433521209</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ini Project Aplicativo Vendas">
+      <option name="closed" value="true" />
+      <created>1719433540800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719433540800</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ini Project Aplicativo Vendas">
+      <option name="closed" value="true" />
+      <created>1719433769423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719433769423</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Ini Proejct Aplicativo Vendas" />
+    <MESSAGE value="Ini Project Aplicativo Vendas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ini Project Aplicativo Vendas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
